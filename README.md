@@ -252,7 +252,9 @@ In order to do this problem, you will be using a Python tool called pyplot (part
 
 Each plot should have a title and descriptive labels on both axes.
 
+Plot 1:
 How long does it take to clean 80% of a 20 × 20 room with each of 1-10 robots? Output a figure that plots the mean time (on the Y-axis) against the number of robots.
+Plot 2:
 How long does it take two robots to clean 80% of rooms with dimensions 20 × 20, 25 × 16, 40 × 10, 50 × 8, 80 × 5, and 100 × 4? (Notice that the rooms have the same area.) Output a figure that plots the mean time (on the Y-axis) against the ratio of width to height.
 Experiment with the number of trials. For your plots, use a number of trials which is large enough that you think the output is reliable.
 
